@@ -9,7 +9,12 @@
 
 
 ### 中国乌龙茶产业协同创新中心管理后台
-* Git 地址：https://github.com/Want-Now/teaCenter.git
-* 页面地址：http://119.23.189.216/#/
-* 页面类型：Vue
-* 负责人：HuangHongYu
+* 前端
+  * Git 地址：https://github.com/Want-Now/teaCenter.git
+  * 页面地址：http://119.23.189.216/#/
+  * 页面类型：Vue
+  * 负责人：HongYu Huang
+* 后台
+  * Git 地址：https://git.xmu.edu.cn/zhangweilun/teacenter
+  * 使用框架：Spring
+  * 负责人：WeiLun Zhang
